@@ -1,6 +1,6 @@
 # Blue Green Purple Syntax
 
-Simple. Sexy. **Blue**. **Green**. **Purple**.
+Simple. **Blue**. **Green**. **Purple**.
 
 #### HTML
 <img src="/screenshots/html.png" width="400">
